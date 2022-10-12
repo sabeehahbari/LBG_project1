@@ -4,6 +4,16 @@ body{
 h1{
     color: blue;
 }
+h2{
+    color:cornflowerblue;
+}
 p{
     color: darkslategray;
+}
+ul{
+    color:aquamarine
+}
+li{
+    background-color: aquamarine;
+    color:darkblue;
 }
