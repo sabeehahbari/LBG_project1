@@ -2,11 +2,11 @@ body{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 h1{
-    color: crimson;
+   color:blue;
+}
+h2{
+    color:cornflowerblue;
 }
 p{
     color: darkslategray;
-}
-h2{
-    color:coral;
 }
